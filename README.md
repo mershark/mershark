@@ -1,11 +1,11 @@
 # Hi 👋, I'm Mershark Oheneba Takyi
 
-# A Full Stack Developer
-🔭 Currently working on: Enhancing web development skills at Microverse.<br>
-👯 Seeking collaborations on: Exciting web development projects.<br>
-🤝 Need help with: Advancing knowledge in specific web development areas.<br>
+# A Full Stack Developer (open to new job opportunities)
+🔭 Currently working on Enhancing web development skills at Microverse.<br>
+👯 Seeking collaborations on Exciting web development projects.<br>
+🤝 Need help with Advancing knowledge in specific web development areas.<br>
 🌱 Currently learning: HTML, CSS, JavaScript, Ruby on Rails, React, and more.<br>
-💬 Ask me about: Sales and marketing background, transition into web development.<br>
+💬 Ask me about my sales and marketing background, and transition into web development.<br>
 ⚡ Fun fact: I enjoy exploring diverse cultures and cuisines.<br>
 <br>
 <br>

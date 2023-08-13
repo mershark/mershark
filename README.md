@@ -15,9 +15,35 @@
 <br>
 <br>
 # 💻 Tech Stack:
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-333333?style=flat&logo=tailwind-css&logoColor=white) 
+  ![jQuery](https://img.shields.io/badge/jquery-333333.svg?style=flat&logo=jquery&logoColor=white)
+  ![SASS](https://img.shields.io/badge/SASS-333333?style=flat&logo=SASS&logoColor=white) 
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![ESLint](https://img.shields.io/badge/ESLint-333333?style=flat&logo=eslint&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-333333?style=flat&logo=python&logoColor=ffdd54)
+  ![Netlify](https://img.shields.io/badge/netlify-333333?style=flat&logo=netlify&logoColor=#00C7B7)
+  ![Express.js](https://img.shields.io/badge/express.js-333333?style=flat&logo=express&logoColor=%2361DAFB)
+  ![NPM](https://img.shields.io/badge/NPM-333333?style=flat&logo=npm&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/nestjs-333333?style=flat&logo=nestjs&logoColor=white)
+  ![Next JS](https://img.shields.io/badge/Next-333333?style=flat&logo=next.js&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-333333?style=flat&logo=node.js&logoColor=white)
+  ![Redux](https://img.shields.io/badge/redux-333333?style=flat&logo=redux&logoColor=white)
+  ![React Router](https://img.shields.io/badge/React_Router-333333?style=flat&logo=react-router&logoColor=white)
+  ![React](https://img.shields.io/badge/react-333333?style=flat&logo=react&logoColor=%2361DAFB)
+  ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-333333?style=flat&logo=SemanticUIReact&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/vuejs-333333?style=flat&logo=vuedotjs&logoColor=%234FC08D)
+  ![Webpack](https://img.shields.io/badge/webpack-333333?style=flat&logo=webpack&logoColor=black)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Postgres](https://img.shields.io/badge/-postgres-333333?style=flat&logo=postgresql)
+  ![SQLite](https://img.shields.io/badge/-sqlite-333333?style=flat&logo=sqlite)
 
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+ !
 <br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mershark&theme=default&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mershark&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>

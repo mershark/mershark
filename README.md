@@ -1,6 +1,8 @@
 # Hi 👋, I'm Mershark Oheneba Takyi
 
 # A Full Stack Developer (open to new job opportunities)
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" style="max-width: 100%;">
+
 🔭 Currently working on Enhancing web development skills at Microverse.<br>
 👯 Seeking collaborations on Exciting web development projects.<br>
 🤝 Need help with Advancing knowledge in specific web development areas.<br>
@@ -45,7 +47,8 @@
  !
 <br>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mershark&theme=default&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mershark&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mershark&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=mershark&hide=TeX&layout=compact&theme=buefy&hide_border=true)
+<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mershark&theme=default&hide_border=false)<br/>
 <br>
 <br>

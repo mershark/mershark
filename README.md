@@ -5,7 +5,7 @@
 
 🔭 Currently working on Enhancing web development skills at Microverse.<br>
 👯 Seeking collaborations on Exciting web development projects.<br>
-🤝 Need help with Advancing knowledge in specific web development areas.<br>
+🤝 Need help with Advancing  my knowledge in specific web development areas.<br>
 💬 Ask me about my Sales and Marketing background, and transitioning into web development.<br>
 ⚡ Fun fact: I enjoy exploring diverse cultures and cuisines.<br>
 <br>

@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mershark Oheneba Takyi
+# Hi 👋, I'm Mershark Oheneba Takyi.
 
 # A Full Stack Developer (open to new job opportunities)
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" style="max-width: 100%;">

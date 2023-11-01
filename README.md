@@ -3,9 +3,9 @@
 A Full Stack Developer (open to new job opportunities)
 
 🔭 Currently working on enhancing my web development skill at Microverse.<br>
-👯 Seeking collaboration on Exciting web development projects.<br>
-🤝 Need help with Advancing my knowledge in specific web development areas.<br>
-💬 Ask me about my sales and marketing background, and transitioning into web development.<br>
+👯 Seeking collaboration on Exciting Software Development projects.<br>
+🤝 Need help with Advancing my knowledge in specific Web Development areas.<br>
+💬 Ask me about my Accounting, Sales and Marketing background and why I transitioned into Software Development.<br>
 ⚡ Fun fact: I enjoy exploring diverse cultures and cuisines.<br>
 
 <br>

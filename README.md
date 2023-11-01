@@ -1,7 +1,6 @@
 # Hi 👋, I'm Mershark Oheneba Takyi.
 
 # A Full Stack Developer (open to new job opportunities)
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" style="max-width: 100%;">
 
 🔭 Currently working on enhancing my web development skill at Microverse.<br>
 👯 Seeking collaboration on Exciting web development projects.<br>
@@ -45,6 +44,14 @@
   ![SQLite](https://img.shields.io/badge/-sqlite-333333?style=flat&logo=sqlite)
 
  !
+<br>
+## My Certifications
+!
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/76794324" width="100">
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79285927" width="100">
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/82220711" width="100">
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/85580833" width="100">
+<br>
 <br>
 # 📊 GitHub Stats:
 ![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mershark&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=mershark&hide=TeX&layout=compact&theme=buefy&hide_border=true)

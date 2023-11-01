@@ -10,6 +10,15 @@ A Full Stack Developer (open to new job opportunities)
 
 <br>
 
+## My Certifications
+
+[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/76794324" width="100">](https://www.credential.net/eac6424a-e547-4bbe-bd67-213a0ac137a6)
+[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79285927" width="100">](https://www.credential.net/da271185-bd3a-487f-bd94-78cc1fae425b)
+[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/82220711" width="100">](https://www.credential.net/634ceb9c-9a60-4161-8056-8457251dd8bf)
+[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/85580833" width="100">](https://www.credential.net/29070358-d5b0-4b07-9981-12675ffbbe70)
+
+<br>
+
 ## 🌐 Socials:
 
 [![](https://visitcount.itsvg.in/api?id=mershark&icon=5&color=1)](https://visitcount.itsvg.in)
@@ -28,13 +37,6 @@ A Full Stack Developer (open to new job opportunities)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
 ![Postgres](https://img.shields.io/badge/-postgres-333333?style=flat&logo=postgresql)
-
-## My Certifications
-
-[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/76794324" width="100">](https://www.credential.net/eac6424a-e547-4bbe-bd67-213a0ac137a6)
-[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79285927" width="100">](https://www.credential.net/da271185-bd3a-487f-bd94-78cc1fae425b)
-[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/82220711" width="100">](https://www.credential.net/634ceb9c-9a60-4161-8056-8457251dd8bf)
-[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/85580833" width="100">](https://www.credential.net/29070358-d5b0-4b07-9981-12675ffbbe70)
 
 <br>
 

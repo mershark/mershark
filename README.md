@@ -33,10 +33,10 @@ A Full Stack Developer (open to new job opportunities)
 
 <br>
 
-## Some Projects Worked On:
+## Some Projects Worked On
 [<img src="./H-A-LOGISTICS-LLC-%E2%80%93-All-Your-Valuables-Are-Safe-With-Us.png" width="220" height="240">](https://handalogisticsllc.com/)&nbsp;&nbsp;&nbsp;
-<img src="./yebfricogroup.png" width="230" height="240">&nbsp;&nbsp;&nbsp;
-<img src="./Taylor-Co-Legal-Associates-–-Protecting-your-rights-serving-justice-.png" width="220" height="240">&nbsp;&nbsp;&nbsp;
+[<img src="./yebfricogroup.png" width="230" height="240">](https://yebfrico.com/)&nbsp;&nbsp;&nbsp;
+[<img src="./Taylor-Co-Legal-Associates-–-Protecting-your-rights-serving-justice-.png" width="220" height="240">](https://taylorlegallaw.com/)&nbsp;&nbsp;&nbsp;
 
 <br>
 

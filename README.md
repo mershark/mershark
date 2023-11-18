@@ -34,7 +34,8 @@ A Full Stack Developer (open to new job opportunities)
 <br>
 
 ## Some Projects Worked On:
-Coming soon!
+<img src="./H-A-LOGISTICS-LLC-%E2%80%93-All-Your-Valuables-Are-Safe-With-Us.png" width="300" height="400">
+
 <br>
 
 ## Currently Working On:

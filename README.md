@@ -41,7 +41,7 @@ A Full Stack Developer (open to new job opportunities)
 <br>
 
 ## Currently Working On:
-Coming soon!
+<img src="./Ecommerce.png" width="260" height="280">&nbsp;&nbsp;&nbsp;
 <br>
 
 ## GitHub Stats:

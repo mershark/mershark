@@ -1,4 +1,4 @@
-## Hi 👋, I'm Mershark Oheneba Takyi&nbsp;&nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=Mershark&color=blue)
+## Hi 👋, I'm Mershark Oheneba Takyi
 
 **A Full Stack Developer (open to new job opportunities)**
 
@@ -14,6 +14,8 @@ With a robust history in Sales & Marketing and Operations & Fund Management, I'v
 <br>
 **Scroll down to learn more about me.**
 <br>
+<br>
+![](https://komarev.com/ghpvc/?username=Mershark&color=blue)
 <br>
 
 ## My Certifications

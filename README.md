@@ -1,4 +1,4 @@
-## Hi 👋, I'm Mershark Oheneba Takyi.
+## Hi 👋, I'm Mershark Oheneba Takyi. [![](https://visitcount.itsvg.in/api?id=mershark&icon=5&color=1)](https://visitcount.itsvg.in) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mersharkot) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iammershark) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mershark) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iammershark)
 
 A Full Stack Developer (open to new job opportunities)
 
@@ -16,13 +16,6 @@ A Full Stack Developer (open to new job opportunities)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79285927" width="100">](https://www.credential.net/da271185-bd3a-487f-bd94-78cc1fae425b)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/82220711" width="100">](https://www.credential.net/634ceb9c-9a60-4161-8056-8457251dd8bf)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/85580833" width="100">](https://www.credential.net/29070358-d5b0-4b07-9981-12675ffbbe70)
-
-<br>
-
-## 🌐 Socials:
-
-[![](https://visitcount.itsvg.in/api?id=mershark&icon=5&color=1)](https://visitcount.itsvg.in)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mersharkot) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iammershark) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mershark) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iammershark)
 
 <br>
 

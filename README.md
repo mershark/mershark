@@ -1,4 +1,4 @@
-## Hi 👋, I'm Mershark Oheneba Takyi.
+## Hi 👋, I'm Mershark Oheneba Takyi. ![](https://komarev.com/ghpvc/?username=Mershark&color=blue)
 
 **A Full Stack Developer (open to new job opportunities)**
 

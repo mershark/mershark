@@ -34,8 +34,8 @@ A Full Stack Developer (open to new job opportunities)
 <br>
 
 ## Some Projects Worked On:
-<img src="./H-A-LOGISTICS-LLC-%E2%80%93-All-Your-Valuables-Are-Safe-With-Us.png" width="240" height="240">
-
+<img src="./H-A-LOGISTICS-LLC-%E2%80%93-All-Your-Valuables-Are-Safe-With-Us.png" width="240" height="240">&nbsp;&nbsp;&nbsp;
+<img src="./yebfricogroup.png" width="250" height="240">
 <br>
 
 ## Currently Working On:

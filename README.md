@@ -19,7 +19,7 @@ A Full Stack Developer (open to new job opportunities)
 
 <br>
 
-## 💻 Tech Stack:
+## Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) 
@@ -33,19 +33,27 @@ A Full Stack Developer (open to new job opportunities)
 
 <br>
 
-## 📊 GitHub Stats:
+## Some Projects Worked On:
+Coming soon!
+<br>
+
+## Currently Working On:
+Coming soon!
+<br>
+
+## GitHub Stats:
 
 ![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mershark&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=mershark&theme=default&hide_border=true)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=mershark&hide=TeX&layout=compact&theme=buefy&hide_border=true)<br/>
 
 
-## ✍️ Random Dev Quote
+## Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&hide_border=true)
 
 <br>
 
-## 🔝 Top Contributed Repo
+## Top Contributed Repo
 
 ![Top Repo](https://github-contributor-stats.vercel.app/api?username=mershark&limit=5&theme=flat&combine_all_yearly_contributions=true)

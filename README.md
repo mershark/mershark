@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Mershark Oheneba Takyi.
 
-A Full Stack Developer (open to new job opportunities)
+**A Full Stack Developer (open to new job opportunities)**
 
 <div style="text-align:justify">
 
@@ -11,9 +11,9 @@ With a robust history in Sales & Marketing and Operations & Fund Management, I'v
 🤝 Need help with Advancing my knowledge in specific Web Development areas.<br>
 💬 Ask me about my Accounting, Sales and Marketing background and why I transitioned into Software Development.<br>
 ⚡ Fun fact: I enjoy exploring diverse cultures and cuisines.<br>
-
-</div>
-
+<br>
+**Scroll down to learn more about me.**
+<br>
 <br>
 
 ## My Certifications

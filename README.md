@@ -4,7 +4,7 @@
 
 <div style="text-align:justify">
 
-With a robust history in Sales & Marketing and Operations & Fund Management, I've seamlessly transitioned into the world of Software development. Passionate about Full-Stack Software Development, I've made the decision to turn my part-time endeavor into a full-time pursuit, combining my love for technology with my practical business experience.
+With a robust history in Sales & Marketing and Operations & Fund Management, I've seamlessly transitioned into the world of Software Development. Passionate about Full-Stack Software Development, I've made the decision to turn my part-time endeavor into a full-time pursuit, combining my love for technology with my practical business experience.
 
 🔭 Currently working on enhancing my Web Development skill at Microverse.<br>
 👯 Seeking collaboration on exciting Software Development projects.<br>

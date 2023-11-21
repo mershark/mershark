@@ -4,13 +4,13 @@
 
 <div style="text-align:justify">
 
-With a robust history in Sales & Marketing and Operations & Fund Management, I've seamlessly transitioned into the world of web development. Passionate about creating websites, I've made the decision to turn my part-time endeavor into a full-time pursuit, combining my love for technology with my practical business experience.
+With a robust history in Sales & Marketing and Operations & Fund Management, I've seamlessly transitioned into the world of Software development. Passionate about Full-Stack Software Development, I've made the decision to turn my part-time endeavor into a full-time pursuit, combining my love for technology with my practical business experience.
 
-🔭 Currently working on enhancing my web development skill at Microverse.<br>
-👯 Seeking collaboration on Exciting Software Development projects.<br>
+🔭 Currently working on enhancing my Web Development skill at Microverse.<br>
+👯 Seeking collaboration on exciting Software Development projects.<br>
 🤝 Need help with Advancing my knowledge in specific Web Development areas.<br>
 💬 Ask me about my Accounting, Sales and Marketing background and why I transitioned into Software Development.<br>
-⚡ Fun fact: I enjoy exploring diverse cultures and cuisines.<br>
+⚡ Fun fact: I prefer dark mode because the light attracts bugs!<br>
 <br>
 **Scroll down to learn more about me.**
 <br>

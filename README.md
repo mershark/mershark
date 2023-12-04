@@ -24,6 +24,7 @@ With a robust history in Sales & Marketing and Operations & Fund Management, I'v
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79285927" width="100">](https://www.credential.net/da271185-bd3a-487f-bd94-78cc1fae425b)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/82220711" width="100">](https://www.credential.net/634ceb9c-9a60-4161-8056-8457251dd8bf)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/85580833" width="100">](https://www.credential.net/29070358-d5b0-4b07-9981-12675ffbbe70)
+[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/88559279" width="100">](https://www.credential.net/72402e43-a354-4e5a-8247-2c81041ffb59)
 
 <br>
 

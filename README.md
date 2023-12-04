@@ -18,7 +18,7 @@ With a robust history in Sales & Marketing and Operations & Fund Management, I'v
 ![](https://komarev.com/ghpvc/?username=Mershark&color=blue)
 <br>
 
-## My Certifications
+## My Certifications (Clickable)
 
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/76794324" width="100">](https://www.credential.net/eac6424a-e547-4bbe-bd67-213a0ac137a6)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79285927" width="100">](https://www.credential.net/da271185-bd3a-487f-bd94-78cc1fae425b)
@@ -42,7 +42,7 @@ With a robust history in Sales & Marketing and Operations & Fund Management, I'v
 
 <br>
 
-## Some Projects Worked On
+## Some Projects Worked On  (Clickable)
 [<img src="./H-A-LOGISTICS-LLC-%E2%80%93-All-Your-Valuables-Are-Safe-With-Us.png" width="220" height="240">](https://handalogisticsllc.com/)&nbsp;&nbsp;&nbsp;
 [<img src="./yebfricogroup.png" width="230" height="240">](https://yebfrico.com/)&nbsp;&nbsp;&nbsp;
 [<img src="./Taylor-Co-Legal-Associates-–-Protecting-your-rights-serving-justice-.png" width="220" height="240">](https://taylorlegallaw.com/)&nbsp;&nbsp;&nbsp;

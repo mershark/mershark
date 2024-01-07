@@ -19,7 +19,7 @@ With a robust history in Sales & Marketing and Operations & Fund Management, I'v
 <br>
 
 ## My Certifications (Clickable)
-
+[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/91465175" width="100">](https://www.credential.net/eab54a49-8065-4d30-bb26-cf843ad44d04)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/76794324" width="100">](https://www.credential.net/eac6424a-e547-4bbe-bd67-213a0ac137a6)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79285927" width="100">](https://www.credential.net/da271185-bd3a-487f-bd94-78cc1fae425b)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/82220711" width="100">](https://www.credential.net/634ceb9c-9a60-4161-8056-8457251dd8bf)

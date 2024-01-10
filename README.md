@@ -12,7 +12,7 @@ With a robust history in Sales & Marketing and Operations & Fund Management, I'v
 💬 Ask me about my Accounting, Sales and Marketing background and why I transitioned into Software Development.<br>
 ⚡ Fun fact: I prefer dark mode because the light attracts bugs!<br>
 <br>
-**Scroll down to learn more about me.**
+**Scroll down to learn more about me**
 <br>
 <br>
 ![](https://komarev.com/ghpvc/?username=Mershark&color=blue)

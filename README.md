@@ -8,7 +8,7 @@ With a robust history in Sales & Marketing and Operations & Fund Management, I'v
 
 🔭 Currently working on enhancing my Web Development skill at Microverse.<br>
 👯 Seeking collaboration on exciting Software Development projects.<br>
-🤝 Need help with Advancing my knowledge in specific Web Development areas.<br>
+🤝 Need help with Advancing my knowledge in specific Web Development areas<br>
 💬 Ask me about my Accounting, Sales and Marketing background and why I transitioned into Software Development.<br>
 ⚡ Fun fact: I prefer dark mode because the light attracts bugs!<br>
 <br>

@@ -41,16 +41,16 @@ With a robust history in Sales & Marketing and Operations & Fund Management, I'v
 
 <br>
 
+## Currently Working On (Clickable)
+<img src="./Ecommerce.png" width="260" height="280">&nbsp;&nbsp;&nbsp;
+<br>
+
 ## Some Projects Worked On  (Clickable)
 [<img src="./Ideals-Finance.png" width="220" height="240">](https://idealsfinance.com/)&nbsp;&nbsp;&nbsp;
 [<img src="./H-A-LOGISTICS-LLC-%E2%80%93-All-Your-Valuables-Are-Safe-With-Us.png" width="220" height="240">](https://handalogisticsllc.com/)&nbsp;&nbsp;&nbsp;
 [<img src="./yebfricogroup.png" width="230" height="240">](https://yebfrico.com/)&nbsp;&nbsp;&nbsp;
 [<img src="./Taylor-Co-Legal-Associates-–-Protecting-your-rights-serving-justice-.png" width="220" height="240">](https://taylorlegallaw.com/)&nbsp;&nbsp;&nbsp;
 
-<br>
-
-## Currently Working On:
-<img src="./Ecommerce.png" width="260" height="280">&nbsp;&nbsp;&nbsp;
 <br>
 
 ## GitHub Stats:

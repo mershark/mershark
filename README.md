@@ -42,7 +42,7 @@ With a robust history in Sales & Marketing and Operations & Fund Management, I'v
 <br>
 
 ## Currently Working On (Clickable)
-[<img src="./Ecommerce.png" width="260" height="280">&nbsp;&nbsp;&nbsp;](https://paylessdrinks.com/?bypass_code=ZNRnuqmnBWJeKNxa)
+[<img src="./Ecommerce.png" width="260" height="280">&nbsp;&nbsp;&nbsp;](https://paylessdrinks.com)
 <br>
 
 ## Some Projects Worked On  (Clickable)

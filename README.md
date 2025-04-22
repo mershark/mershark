@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Mershark Oheneba Takyi
 
-**A Full Stack Developer (open to new job opportunities)**
+**A Full Stack Developer (open to collaborations)**
 
 My website: www.mershark.com
 
